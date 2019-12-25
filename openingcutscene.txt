@@ -1,0 +1,44 @@
+After fighting a fearsome battle,
+and losing many of your friends,
+you decide to return home,
+and play a rip-off Legend of Zelda game.
+
+That's all the exposition you get.
+No, Really.
+
+Oh, yeah.
+Here's some tips to help you win:
+
+If you die alot,
+just,
+don't.
+
+For sir: If you want to explore
+the map and not die immediately,
+set link.health+=1 
+in the main loop.
+
+The shop is roughly in the middle
+of the map, beneath the Castle.
+Hit the old lady to open the shop.
+
+You need 8 keys to get into the
+castle and defeat the boss
+(you can get around this by changing the number of keys you
+have in the code). If you buy
+the minimap in the shop, you
+can see the Crosses on the minimap
+which indicate where the keys are.
+Remember -- There are areas other
+than where you start. To get the
+rest of the keys, you need to make
+your way to the top-left bridge
+and cross it to get into the
+Lost Woods. That's where the
+remaining keys are.
+
+Also -- Remember to save in the
+options menu.
+Look at the instructions page
+to see how to access the options
+menu.
